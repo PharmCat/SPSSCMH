@@ -1,0 +1,1 @@
+R Project / metafor package - Cochran–Mantel–Haenszel test 

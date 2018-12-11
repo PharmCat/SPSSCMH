@@ -1,0 +1,8 @@
+<Command xmlns="http://xml.spss.com/spss/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extension-1.0.xsd" Name="FCCMH" Language="R">
+	<Subcommand Name="" IsArbitrary="False" Occurrence="Optional">
+		<Parameter Name="GF"     ParameterType="VariableName"/>
+		<Parameter Name="GROUP"  ParameterType="VariableName"/>
+		<Parameter Name="EFFECT" ParameterType="VariableName"/>
+		<Parameter Name="ALPHA"  ParameterType="Number"/>
+	</Subcommand>
+</Command>
